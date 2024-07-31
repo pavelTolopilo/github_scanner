@@ -1,0 +1,13 @@
+# env
+.env
+
+# dependencies
+/node_modules
+package-lock.json
+
+# misc
+.DS_Store
+
+#IDE
+.vscode
+.idea
